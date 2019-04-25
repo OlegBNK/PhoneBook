@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<?php
+
+$firstName   = "Jhon";
+$surname     = "Doe";
+$email       = "johndoe@gmail.com";
+$phoneNumber = '0043 312 436';
+$address     = "Sydney, Australia";
+$skype       = "johndoe";
+$salary      = 800.50;
+$age         = 32;
+$info        = "Lorem ipsum dolor sit amet, consectetur adipiscing elit...";
+
+$data = <<<data
+$email <br>
+$phoneNumber <br>
+$address <br>
+$skype
+data;
+
+
+$contactInfo = [
+    "email"       => $email,
+    "phoneNumber" => $phoneNumber,
+    "address"     => $address,
+    "skype"       => $skype,
+];
+
+$workExperience = [
+        ['position'  => 'Bar Manager',
+         'title'     => 'El Presidente',
+         'data'      => '06/2013 - 12/2016',
+         'address'   => 'Sydney, Australia',
+         'tasks'     => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...',
+            'contact' =>
+            ['contactName'=> 'Vince Scarlett',
+             'contact'    => '0021 213 235'],
+        ],
+        ['position'  => 'Bartender',
+         'title'     => 'The NoMad Meeting Point',
+         'data'      => '06/2009 - 05/2013',
+         'address'   => 'Sydney, Australia',
+         'tasks'     => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...',
+            'contact' =>
+            ['contactName'=> 'Jackson Parish',
+             'contact'    => 'jack@nomad.au'],
+        ],
+        ['position'  => 'Barback',
+         'title'     => 'Brisbane Irish Rover',
+         'data'      => '06/2007 - 01/2009',
+         'address'   => 'Brisbane, Australia',
+         'tasks'     => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...',
+            'contact' =>
+            ['contactName'=> 'Oleg Bondarenko',
+             'contact'    => 'bnk.oleg@gmail.com'],
+        ],
+];
+
+$skills = [
+    "Project Management"     => 87.5,
+    "Working Under Pressure" => 90,
+    "Team Work"              => 92,
+    "Time Management"        => 100,
+    "Emotional Inteligence"  => 89.5,
+];
+
+$sertificates = [
+    ['name' => 'Foundation Leadership Program Certificate]',
+     'date' => '(2016)',
+    'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...'],
+    ['name' =>'European Bartender School',
+     'date' =>'(02/2009 - 05/2009)',
+    'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...'],
+    ['name' =>'SEO Training',
+     'date' =>'(09/2015)',
+    'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...'],
+];
+
+$education = [
+     'name' => 'Service Management',
+     'data' => '06/2005 - 06/2008',
+];
+
+$languages = [
+    'english'    => 'Native',
+    'Spanish'    => 'Expert',
+    'Portuguese' => 'Intermediate',
+    'French'     => 'Intermediate',
+];
+
+?>
+<body>
+
+<h1><?= $firstName ,"&nbsp", $surname?></h1>
+<?= $workExperience [0] ['position']?>
+<h4><?= $data ?></h4>
+<h5><?= $info ;?></h5>
+
+<h2><?= "WORK EXPERIENCE";?></h2>
+<p>
+    <?= $workExperience [0]['position'];?> <br>
+    <?= $workExperience [0]['title'];?> <br>
+    <?= $workExperience [0]['data'];?> <br>
+    <?= $workExperience [0]['address'];?> <br>
+    <?= "Tasks" ;?> <br>
+    <?= $workExperience [0]['tasks'];?> <br>
+    <?= $workExperience [0]['contact']['contactName'];?>
+    <?= $workExperience [0]['contact']['contact'];?>
+</p>
+<p>
+    <?= $workExperience [1]['position'];?> <br>
+    <?= $workExperience [1]['title'];?> <br>
+    <?= $workExperience [1]['data'];?> <br>
+    <?= $workExperience [1]['address'];?> <br>
+    <?= "Tasks" ;?> <br>
+    <?= $workExperience [1]['tasks'];?> <br>
+    <?= $workExperience [1]['contact']['contactName'];?>
+    <?= $workExperience [1]['contact']['contact'];?>
+</p>
+<p>
+    <?= $workExperience [2]['position'];?> <br>
+    <?= $workExperience [2]['title'];?> <br>
+    <?= $workExperience [2]['data'];?> <br>
+    <?= $workExperience [2]['address'];?> <br>
+    <?= "Tasks" ;?> <br>
+    <?= $workExperience [2]['tasks'];?> <br>
+    <?= $workExperience [2]['contact']['contactName'];?>
+    <?= $workExperience [2]['contact']['contact'];?>
+</p>
+
+<h2><?= "SKILLS & COMPETENCES";?></h2>
+<?= $skillsAndCompetences;?> <br>
+<ul>
+    <li>Project Management - <?php echo $skills["Project Management"]?></li>
+    <li>Working Under Pressure - <?php echo $skills["Working Under Pressure"]?></li>
+    <li>Team Work - <?php echo $skills["Team Work"]?></li>
+    <li>Time Management - <?php echo $skills["Time Management"]?></li>
+    <li>Emotional Inteligence- <?php echo $skills["Emotional Inteligence"]?></li>
+</ul>
+
+<h2><?= "CERTIFICATES";?></h2>
+<p>
+    <b>
+<?= $sertificates [0]["name"];?>
+<?= $sertificates [0]["date"];?>
+    </b><br>
+<?= $sertificates [0]["title"];?>
+</p>
+<p>
+    <b>
+<?= $sertificates [1]["name"];?>
+<?= $sertificates [1]["date"];?>
+    </b><br>
+<?= $sertificates [1]["title"];?>
+</p>
+<p>
+    <b>
+<?= $sertificates [2]["name"];?>
+<?= $sertificates [2]["date"];?>
+    </b><br>
+<?= $sertificates [2]["title"];?>
+</p>
+
+<h2><?="LANGUAGES";?></h2>
+<ol>
+    <li><p>English - <?php echo $languages['english']?></p></li>
+    <li><p>Spanish - <?php echo $languages['Spanish']?></p></li>
+    <li><p>Portuguese - <?php echo $languages['Portuguese']?></p></li>
+    <li><p>French - <?php echo $languages['French']?></p></li>
+</ol>
+
+</body>
+</html>

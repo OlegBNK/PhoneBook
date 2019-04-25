@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<?php
+
+//function sum($number, $number2) {
+//    $a = 1;
+//    $b = 54;
+//    return ($number + $number2) / $b;
+//}
+//
+//function foo() {
+//    $a = 1;
+//    $b = 54;
+//    return ($a + $b) / $b;
+//}
+//
+//
+//echo sum(123, 324523) + foo();
+//die;
+
+$firstName   = "Jhon";
+$surname     = "Doe";
+$email       = "johndoe@gmail.com";
+$phoneNumber = '0043 312 436';
+$address     = "Sydney, Australia";
+$skype       = "johndoe";
+$salary      = 800.50;
+$age         = 32;
+$info        = "Lorem ipsum dolor sit amet, consectetur adipiscing elit...";
+
+$data = <<<data
+$email <br>
+$phoneNumber <br>
+$address <br>
+$skype
+data;
+
+
+$contactInfo = [
+    "email"       => $email,
+    "phoneNumber" => $phoneNumber,
+    "address"     => $address,
+    "skype"       => $skype,
+];
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Bar Manager Time Worked
+$barManagerStampStart = strtotime('2013-06-01');
+$barManagerStampEnd = strtotime('2016-12-01');
+$barManagerDiffDate = date('Y-m-d', $barManagerStampEnd) - date('Y-m-d', $barManagerStampStart);
+$barManagerDiffSeconds = $barManagerStampEnd - $barManagerStampStart;
+$barManagerMonthWorked = $barManagerDiffSeconds / 60 / 60 / 24 / 30.5;
+$barManagerYearsWorked = (int) ($barManagerMonthWorked / 12);
+$barManagerDiffMonthWorked = $barManagerMonthWorked % 12;
+
+//Bartender Time Worked
+$bartenderStampStart = strtotime('2009-06-01');
+$bartenderStampEnd = strtotime('2013-05-01');
+$bartenderMonthWorked = ($bartenderStampEnd - $bartenderStampStart)/60/60/24/30.4375;
+$bartenderYearsWorked = (int) ($bartenderMonthWorked / 12);
+$bartenderDiffMonthWorked = $bartenderMonthWorked % 12;
+
+//Barback Time Worked
+$barbackStampStart = strtotime('2007-06-01');
+$barbackStampEnd = strtotime('2010-01-01');
+$barbackMonthWorked = ($barbackStampEnd - $barbackStampStart)/60/60/24/30.4375;
+$barbackYearsWorked = (int) ($barbackMonthWorked / 12);
+$barbackDiffMonthWorked = $barbackMonthWorked % 12;
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+$workExperience = [
+        0 => ['position'  => 'Bar Manager',
+         'title'     => 'El Presidente',
+         'data'      => date('Y-m-d', $barManagerStampStart) . "&mdash;" . date('Y-m-d', $barManagerStampEnd) . " (years $barManagerYearsWorked months $barManagerDiffMonthWorked )",
+         'address'   => 'Sydney, Australia',
+         'tasks'     => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...',
+            'contact' =>
+            ['contactName'=> 'Vince Scarlett',
+             'contact'    => '0021 213 235'],
+        ],
+        ['position'  => 'Bartender',
+         'title'     => 'The NoMad Meeting Point',
+         'data'      => date('Y-m-d', $bartenderStampStart) . "&mdash;" . date('Y-m-d', $bartenderStampEnd) . " (years $bartenderYearsWorked months $bartenderDiffMonthWorked )",
+         'address'   => 'Sydney, Australia',
+         'tasks'     => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...',
+            'contact' =>
+            ['contactName'=> 'Jackson Parish',
+             'contact'    => 'jack@nomad.au'],
+        ],
+        ['position'  => 'Barback',
+         'title'     => 'Brisbane Irish Rover',
+         'data'      => date('Y-m-d', $barbackStampStart) . "&mdash;" . date('Y-m-d', $barbackStampEnd) . " (years $barbackYearsWorked months $barbackDiffMonthWorked )",
+         'address'   => 'Brisbane, Australia',
+         'tasks'     => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...',
+            'contact' =>
+            ['contactName'=> 'Oleg Bondarenko',
+             'contact'    => 'bnk.oleg@gmail.com'],
+        ],
+];
+
+$skills = [
+    "Project Management"     => 87.5,
+    "Working Under Pressure" => 90,
+    "Team Work"              => 92,
+    "Time Management"        => 100,
+    "Emotional Inteligence"  => 89.5,
+];
+
+$sertificates = [
+    ['name' => 'Foundation Leadership Program Certificate]',
+     'date' => '(2016)',
+    'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...'],
+    ['name' =>'European Bartender School',
+     'date' =>'(02/2009 - 05/2009)',
+    'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...'],
+    ['name' =>'SEO Training',
+     'date' =>'(09/2015)',
+    'title' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit...'],
+];
+
+$education = [
+     'name' => 'Service Management',
+     'data' => '06/2005 - 06/2008',
+];
+
+$languages = [
+    'English'    => 'Native',
+    'Spanish'    => 'Expert',
+    'Portuguese' => 'Intermediate',
+    'French'     => 'Intermediate',
+];
+?>
+<body>
+
+<h1><?= $firstName ,"&nbsp", $surname?></h1>
+<?= $workExperience [0] ['position']?>
+<h4><?= $data ?></h4>
+<h5><?= $info ;?></h5>
+
+<h2><?= "WORK EXPERIENCE";?></h2>
+<?php
+
+foreach ($workExperience as $arrayElement) {
+    echo '<p>';
+    echo $arrayElement['position'] . '<br>';
+    echo $arrayElement['title'] . '<br>';
+    echo $arrayElement['data'] . '<br>';
+    echo $arrayElement['address'] . '<br>';
+    echo "Tasks" . '<br>';
+    echo $arrayElement['tasks'] . '<br>';
+    foreach ($arrayElement['contact'] as $contact) {
+        echo $contact;
+    }
+    echo '</p>';
+}
+?>
+<h2><?= "SKILLS & COMPETENCES";?></h2>
+<ul>
+    <li>Project Management - <?php echo $skills["Project Management"]?></li>
+    <li>Working Under Pressure - <?php echo $skills["Working Under Pressure"]?></li>
+    <li>Team Work - <?php echo $skills["Team Work"]?></li>
+    <li>Time Management - <?php echo $skills["Time Management"]?></li>
+    <li>Emotional Inteligence- <?php echo $skills["Emotional Inteligence"]?></li>
+</ul>
+
+<h2><?= "CERTIFICATES";?></h2>
+<?php
+for($scroll = 0;  $scroll < 3; $scroll++) {
+    echo '<p>';
+    echo '<b>';
+    echo $sertificates[$scroll]["name"];
+    echo $sertificates[$scroll]["date"];
+    echo '</b><br>';
+    echo $sertificates[$scroll]["title"];
+    echo '</p>';
+}
+?>
+
+<h2><?="LANGUAGES";?></h2>
+<ol>
+    <?php
+    foreach ($languages as $langName => $langLevel){
+        echo "<li><p>" . $langName . " - " . $langLevel . "</p></li>";
+    }
+    ?>
+<!--    --><?php //foreach ($languages as $langName => $langLevel) :?>
+<!--        <li><p> --><?php //echo $langName ;?><!-- - --><?php //echo $langLevel ;?><!--</p></li>-->
+<!--    --><?php //endforeach;?>
+</ol>
+</body>
+</html>

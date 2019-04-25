@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<?php
+
+$firstName = "Jhon";
+$surname = "Doe";
+$email = "johndoe@gmail.com";
+$phoneNumber = '0043 312 436';
+$address = "Sydney, Australia";
+$skype = "johndoe";
+$salary = 800.50;
+$age = 32;
+
+$data = <<<data
+$email <br>
+$phoneNumber <br>
+$address <br>
+$skype
+data;
+
+
+$contactInfo = [
+"email" => $email,
+"phoneNumber" => $phoneNumber,
+"address" => $address,
+"skype" => $skype,
+];
+
+$skills = [
+"Project Management" => 87.5,
+"Working Under Pressure" => 90,
+"Team Work" => 92,
+"Time Management" => 100,
+"Emotional Inteligence" => 89.5,
+];
+$sertificates = [
+'Foundation Leadership Program Certificate (2016)',
+'European Bartender School (02/2009 - 05/2009)',
+'SEO Training (09/2015)'
+];
+$education = "Service Management";
+$languages = [
+'english' => 'Native',
+'Spanish' => 'Expert',
+'Portuguese' => 'Intermediate',
+'French' => 'Intermediate',
+];
+$workExperience;
+
+
+
+?>
+<body>
+
+<h1><?= $firstName ,"&nbsp", $surname?></h1>
+<h4><?= $data ?></h4>
+<h4><?= $contactInfo = ["email"],["phoneNumber"],["address"],["skype"]; ?></h4>
+
+<h4>languges</h4>
+<ol>
+    <li><p>English - <?php echo $languages['english']?></p></li>
+    <li><p>Spanish - <?php echo $languages['Spanish']?></p></li>
+    <li><p>Portuguese - <?php echo $languages['Portuguese']?></p></li>
+    <li><p>French - <?php echo $languages['French']?></p></li>
+</ol>
+
+if ($age <= 12) {
+echo 'меньше 12';
+} elseif ($age <= 18) {
+echo 'меньше 18';
+} else {
+echo $age . ' больше 18';
+}
+
+</body>
+</html>

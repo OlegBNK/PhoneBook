@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16bb6d0e-6160-41bd-a82c-9e9b0227664e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/Marlin/car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/Marlin/car2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/Marlin/car3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/Admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/Bicycle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/Bike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/DriveContract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/Role.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/TransportManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/OOP/dante/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/TelNumber/Contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/TelNumber/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/TelNumber/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/Arr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/City.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/Employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/UserShow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/UserThis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/newcode/OOP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daity/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Daity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/localhost/DanteNorton/Car/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/localhost/DanteNorton/Car/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="laravel: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="laravel: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="users: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1079828524">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="40" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.14" value="12" />
+          <entry key="project.open.time.15" value="11" />
+          <entry key="project.open.time.16" value="9" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="7" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="1" />
+          <entry key="css" value="3" />
+          <entry key="editorconfig" value="1" />
+          <entry key="env" value="1" />
+          <entry key="form" value="1" />
+          <entry key="gitattributes" value="1" />
+          <entry key="htaccess" value="1" />
+          <entry key="html" value="10" />
+          <entry key="js" value="2" />
+          <entry key="json" value="2" />
+          <entry key="php" value="150" />
+          <entry key="phtml" value="12" />
+          <entry key="sql" value="4" />
+          <entry key="users" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="9" />
+          <entry key="CSS" value="3" />
+          <entry key="Database Element" value="1" />
+          <entry key="HTML" value="11" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="150" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Scratch" value="4" />
+          <entry key="htaccess" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="636" />
+          <entry key="CSS" value="27" />
+          <entry key="HTML" value="22" />
+          <entry key="PHP" value="24931" />
+          <entry key="PLAIN_TEXT" value="138" />
+          <entry key="SQL" value="59" />
+          <entry key="Scratch" value="185" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="68" />
+          <entry key="css" value="27" />
+          <entry key="dummy" value="3" />
+          <entry key="env" value="16" />
+          <entry key="form" value="21" />
+          <entry key="php" value="25536" />
+          <entry key="phtml" value="40" />
+          <entry key="sql" value="176" />
+          <entry key="txt" value="111" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daity/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daity/function/hillel_hw06.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Daity/TelNumber/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daity/TelNumber/Contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Daity/TelNumber/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/localhost/HW2form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/localhost/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dATE</find>
+      <find>root</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\openserver\OSPanel\domains\localhost</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Daity" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Daity/loop/task12.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task13.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task14.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task15.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task16.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task17.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task18.php" />
+        <option value="$PROJECT_DIR$/Daity/loop/task19.php" />
+        <option value="$PROJECT_DIR$/Daity/if_else_switch_case/task0.php" />
+        <option value="$PROJECT_DIR$/Daity/Mathematical_Function/TaskMathematicalFunction.php" />
+        <option value="$PROJECT_DIR$/Daity/string_function/string_function.php" />
+        <option value="$PROJECT_DIR$/Daity/custom_functions/custom_functions.php" />
+        <option value="$PROJECT_DIR$/Daity/custom_functions/function01.php" />
+        <option value="$PROJECT_DIR$/Daity/custom_functions/function_with_form.php" />
+        <option value="$PROJECT_DIR$/Daity/function/hillel_hw06.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/car/car.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Marlin/car2.0.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Marlin/car2.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Marlin/car3.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Role.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Password.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Admin.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/User.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/DriveContract.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Bike.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Bycicle.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Bicycle.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Car.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/index.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/TransportManager.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/Dante.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/First/Car.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/First/Cycle.php" />
+        <option value="$PROJECT_DIR$/Daity/OOP/First/bycycle.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/UserShow.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/UserThis.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/Rectangle.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/Employee.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/index.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/Student.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/Add.php" />
+        <option value="$PROJECT_DIR$/Daity/error.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/Arr.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/City.php" />
+        <option value="$PROJECT_DIR$/Daity/newcode/OOP/User.php" />
+        <option value="$PROJECT_DIR$/Daity/test.php" />
+        <option value="$PROJECT_DIR$/Daity/TelNumber/form" />
+        <option value="$PROJECT_DIR$/localhost/form.html" />
+        <option value="$PROJECT_DIR$/Daity/TelNumber/index.php" />
+        <option value="$PROJECT_DIR$/Daity/TelNumber/form.php" />
+        <option value="$PROJECT_DIR$/Daity/TelNumber/Contact.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/blog/package.json" />
+      <path value="$PROJECT_DIR$/pizzaro/pizzaro/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/blog/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/blog/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/blog/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/blog/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/blog/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/blog/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/blog/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/blog/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/blog/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/blog/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/blog/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/blog/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/blog/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/blog/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/blog/vendor/composer" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/blog/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/blog/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/blog/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/blog/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/blog/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/blog/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/blog/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/blog/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/blog/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/blog/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/blog/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/blog/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/blog/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/blog/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/blog/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/blog/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/blog/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/blog/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/blog/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/blog/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/blog/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-33" />
+    <option name="y" value="-11" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="462c0819:PsiDirectoryNode" />
+              <item name="Daity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="462c0819:PsiDirectoryNode" />
+              <item name="Daity" type="462c0819:PsiDirectoryNode" />
+              <item name="newcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="462c0819:PsiDirectoryNode" />
+              <item name="Daity" type="462c0819:PsiDirectoryNode" />
+              <item name="newcode" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="462c0819:PsiDirectoryNode" />
+              <item name="Daity" type="462c0819:PsiDirectoryNode" />
+              <item name="TelNumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="domains" type="462c0819:PsiDirectoryNode" />
+              <item name="localhost" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="repository&#10;directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="date&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\openserver\OSPanel\domains\Daity\newcode\OOP" />
+      <recent name="C:\openserver\OSPanel\domains\blog\public\css" />
+      <recent name="C:\openserver\OSPanel\domains\blog\resources\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\openserver\OSPanel\domains\Daity\OOP\dante" />
+      <recent name="C:\openserver\OSPanel\domains\Daity\function" />
+      <recent name="C:\openserver\OSPanel\domains\Daity\loop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16bb6d0e-6160-41bd-a82c-9e9b0227664e" name="Default Changelist" comment="" />
+      <created>1541787797079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541787797079</updated>
+      <workItem from="1541787798496" duration="72000" />
+      <workItem from="1542021282554" duration="3363000" />
+      <workItem from="1542090920616" duration="599000" />
+      <workItem from="1542109978816" duration="3483000" />
+      <workItem from="1542115072351" duration="2352000" />
+      <workItem from="1542274952828" duration="1197000" />
+      <workItem from="1542285116503" duration="6443000" />
+      <workItem from="1542361628904" duration="599000" />
+      <workItem from="1542366202177" duration="3636000" />
+      <workItem from="1542376383601" duration="6277000" />
+      <workItem from="1542393363921" duration="6099000" />
+      <workItem from="1542403035927" duration="1314000" />
+      <workItem from="1542527506417" duration="596000" />
+      <workItem from="1542622676095" duration="1799000" />
+      <workItem from="1542711875322" duration="3855000" />
+      <workItem from="1542799887091" duration="6999000" />
+      <workItem from="1543164560744" duration="2547000" />
+      <workItem from="1543320302498" duration="910000" />
+      <workItem from="1543490636157" duration="958000" />
+      <workItem from="1543497979489" duration="192000" />
+      <workItem from="1543498211554" duration="7268000" />
+      <workItem from="1543571340085" duration="3256000" />
+      <workItem from="1543586992596" duration="2497000" />
+      <workItem from="1543590786416" duration="501000" />
+      <workItem from="1543591334418" duration="1142000" />
+      <workItem from="1548759863823" duration="678000" />
+      <workItem from="1549445392655" duration="2871000" />
+      <workItem from="1550737121197" duration="7437000" />
+      <workItem from="1550836026135" duration="9311000" />
+      <workItem from="1551096242543" duration="4927000" />
+      <workItem from="1551106068774" duration="11009000" />
+      <workItem from="1551192470008" duration="12689000" />
+      <workItem from="1551524793327" duration="10902000" />
+      <workItem from="1551879892394" duration="14717000" />
+      <workItem from="1552466524944" duration="13011000" />
+      <workItem from="1552562195453" duration="5944000" />
+      <workItem from="1552568539374" duration="2646000" />
+      <workItem from="1552574862170" duration="3120000" />
+      <workItem from="1552578038621" duration="719000" />
+      <workItem from="1552587535411" duration="103000" />
+      <workItem from="1552588081944" duration="740000" />
+      <workItem from="1554454049607" duration="2013000" />
+      <workItem from="1554721861628" duration="587000" />
+      <workItem from="1554798810815" duration="7814000" />
+      <workItem from="1554816383729" duration="10043000" />
+      <workItem from="1554894329508" duration="9576000" />
+      <workItem from="1554915950519" duration="3554000" />
+      <workItem from="1554967498414" duration="13138000" />
+      <workItem from="1554997603652" duration="2247000" />
+      <workItem from="1555001101835" duration="1603000" />
+      <workItem from="1555058401417" duration="5487000" />
+      <workItem from="1555071509962" duration="8484000" />
+      <workItem from="1555159955035" duration="1722000" />
+      <workItem from="1555241223203" duration="681000" />
+      <workItem from="1555319860965" duration="14364000" />
+      <workItem from="1555409920880" duration="11504000" />
+      <workItem from="1555437529375" duration="1410000" />
+      <workItem from="1556114504485" duration="1376000" />
+      <workItem from="1556126655987" duration="404000" />
+      <workItem from="1556182013174" duration="3521000" />
+      <workItem from="1556187207070" duration="2337000" />
+      <workItem from="1556190808266" duration="10760000" />
+      <workItem from="1556204112264" duration="3105000" />
+    </task>
+    <task id="LOCAL-00001" summary="Инициализация Laravel">
+      <created>1543504267196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543504267196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Инициализация Laravel">
+      <created>1543589251175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543589251175</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Инициализация Laravel">
+      <created>1543589812296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543589812296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Инициализация Laravel">
+      <created>1543589874471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543589874471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Инициализация Laravel">
+      <created>1543591870097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543591870097</updated>
+    </task>
+    <task id="LOCAL-00006" summary="последние изменения">
+      <created>1552573836098</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552573836098</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="284508000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21028744" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="1.0" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" sideWeight="0.49924356" weight="0.31751227" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.33781514" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.6913767" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33551556" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" sideWeight="0.49924356" weight="0.31800765" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.33781514" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.6913767" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Иниц" />
+    <MESSAGE value="Инициализация Laravel" />
+    <MESSAGE value="последние изменения" />
+    <option name="LAST_COMMIT_MESSAGE" value="последние изменения" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="domains" type="b2602c69:ProjectViewProjectNode" />
+        <item name="domains" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/localhost/MySQL.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/1007.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/mysqlnew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/Marlin/car3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/Marlin/car2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/Password.php" />
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/Bike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/Dante.php" />
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/Marlin/car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/First/car.php" />
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/First/Cycle.php" />
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/First/bycycle.php" />
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/UserThis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/DriveContract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/TransportManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/Rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/OOP/dante/Bicycle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Telegram Desktop/Хиллель/dz3.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/Employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/PHP/pages/shop-grid-3-column.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/PHP/pages/shop-dark-grid-3-column.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/PHP/inc/components/pizzaro-sorting.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/pizzaro/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/pizzaro/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/pizzaro/routes/channels.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/pizzaro/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/dz3.php" />
+    <entry file="file://$PROJECT_DIR$/localhost/HW6firstTask.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/TemaDZ.php" />
+    <entry file="file://$PROJECT_DIR$/localhost/openServer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/UserShow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/Arr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/City.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizzaro/pizzaro/vendor/fzaninotto/faker/src/Faker/Provider/cs_CZ/DateTime.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="141" column="31" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/newcode/OOP/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/function/hillel_hw06.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="38" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/HW2form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localhost/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/TelNumber/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/TelNumber/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daity/TelNumber/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
